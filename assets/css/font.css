@@ -1,0 +1,21 @@
+/* P22 Underground CY Pro Heavy */
+
+@font-face {
+    font-family: 'P22 Underground';
+    font-style: normal;
+    font-weight: 900;
+    font-display: swap;
+    src: url('../fonts/P22UndergroundCYProHeavy.woff2') format('woff2'),
+         url('../fonts/P22UndergroundCYProHeavy.woff') format('woff');
+}
+
+/* GothamNarrSSm XLight */
+
+@font-face {
+    font-family: 'GothamNarrSSm';
+    font-style: normal;
+    font-weight: 200;
+    font-display: swap;
+    src: url('../fonts/GothamNarrSSm-XLight.woff2') format('woff2'),
+         url('../fonts/GothamNarrSSm-XLight.woff') format('woff');
+}
